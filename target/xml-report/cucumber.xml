@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="145.223">
+    <testcase classname="Unknown" name="_2" time="144.677">
+        <system-out><![CDATA[Given Hepsiburada sitesi acilacak ve anasayfanin acildigini onaylayacak.....passed
+And Login ekranini acip, bir kullanici ile login olacak.....................passed
+And Ekranin ustundeki Search alanina samsung yazip Ara butonuna tiklayacak..passed
+Then Sol menuden Telefon sonrasinda Cep Telefonu tiklayacak.................passed
+And Gelen sayfada samsung icin sonuc bulundugunu onaylayacak................passed
+And Arama sonuclarindan ikinci sayfaya tiklayacak ve acilan sayfada ikinci sayfanin su an gosterimde oldugunu onaylayacak.passed
+When Ustten besinci urunu tiklayacak........................................passed
+Then Urun detayinda Begen butonuna tiklayacak...............................passed
+And Urun listenize eklendi.' popup kontrolu yapacak.........................passed
+And Ekranin en ustundeki hesabim alaninda Begendiklerim tiklayacak..........passed
+And Acilan sayfada bir onceki sayfada begendiklerime alinmis urunun bulundugunu onaylayacak.passed
+Then Begendiklerime alinmis urun bulunup secilecek ve sepete eklenecek......passed
+And Urun sepete eklendi' popup kontrolu yapacak.............................passed
+And Sepetim sayfasina gidecek...............................................passed
+Then Sepete eklenen bu urunun icine girilip kaldir butonuna basilacak, sepetimden cikarilacak.passed
+And Bu urunun artik sepette olmadigini onaylayacak..........................passed
+]]></system-out>
+    </testcase>
+</testsuite>

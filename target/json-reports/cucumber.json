@@ -1,0 +1,221 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-21T11:14:10.443Z",
+        "line": 3,
+        "name": "",
+        "description": "",
+        "id": ";",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18014868300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Hepsiburada sitesi acilacak ve anasayfanin acildigini onaylayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.hepsiburada_sitesi_acilacak_ve_anasayfanin_acildigini_onaylayacak()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 18793125400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Login ekranini acip, bir kullanici ile login olacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.login_ekranini_acip_bir_kullanici_ile_login_olacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14324598200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Ekranin ustundeki Search alanina samsung yazip Ara butonuna tiklayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.ekranin_ustundeki_search_alanina_samsung_yazip_ara_butonuna_tiklayacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 31970604800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Sol menuden Telefon sonrasinda Cep Telefonu tiklayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.sol_menuden_telefon_sonrasinda_cep_telefonu_tiklayacak()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 612295100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Gelen sayfada samsung icin sonuc bulundugunu onaylayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.gelen_sayfada_samsung_icin_sonuc_bulundugunu_onaylayacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11265561800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Arama sonuclarindan ikinci sayfaya tiklayacak ve acilan sayfada ikinci sayfanin su an gosterimde oldugunu onaylayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.arama_sonuclarindan_ikinci_sayfaya_tiklayacak_ve_acilan_sayfada_ikinci_sayfanin_su_an_gosterimde_oldugunu_onaylayacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8225180400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Ustten besinci urunu tiklayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.ustten_besinci_urunu_tiklayacak()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4962123900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Urun detayinda Begen butonuna tiklayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.urun_detayinda_begen_butonuna_tiklayacak()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3077397100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Urun listenize eklendi.\u0027 popup kontrolu yapacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.urun_listenize_eklendi_popup_kontrolu_yapacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11494079600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Ekranin en ustundeki hesabim alaninda Begendiklerim tiklayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.ekranin_en_ustundeki_hesabim_alaninda_begendiklerim_tiklayacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1240989300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Acilan sayfada bir onceki sayfada begendiklerime alinmis urunun bulundugunu onaylayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.acilan_sayfada_bir_onceki_sayfada_begendiklerime_alinmis_urunun_bulundugunu_onaylayacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3573028300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Begendiklerime alinmis urun bulunup secilecek ve sepete eklenecek",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.begendiklerime_alinmis_urun_bulunup_secilecek_ve_sepete_eklenecek()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1197496700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Urun sepete eklendi\u0027 popup kontrolu yapacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.urun_sepete_eklendi_popup_kontrolu_yapacak()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9688939500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Sepetim sayfasina gidecek",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.sepetim_sayfasina_gidecek()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2779688100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Sepete eklenen bu urunun icine girilip kaldir butonuna basilacak, sepetimden cikarilacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.sepete_eklenen_bu_urunun_icine_girilip_kaldir_butonuna_basilacak_sepetimden_cikarilacak()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3261844100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Bu urunun artik sepette olmadigini onaylayacak",
+            "match": {
+              "location": "stepdefinitions.HepsiburadaStepDefinitions.bu_urunun_artik_sepette_olmadigini_onaylayacak()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@hepsiburada"
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "description": "",
+    "id": "",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/HepsiburadaUrunBegenSepeteEkle.feature",
+    "tags": []
+  }
+]
